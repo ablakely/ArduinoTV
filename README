@@ -1,0 +1,12 @@
+ArduinoTV
+A NSTC/PAL compatible Arduino video library based on arduino-tvout.
+
+ArduinoTV's goal is to pickup where the arduino-tvout project left off,
+and continue work with using the Arduino with TVs that support composite
+video.
+
+ArduinoTV by Aaron Blakely <aaron@ephasic.org>
+arduino-tvout: http://code.google.com/p/arduino-tvout/
+
+
+
